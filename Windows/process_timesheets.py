@@ -30,7 +30,7 @@ def process_timesheet(input_file, output_file=None):
     print(f"Columns: {df.columns.tolist()}\n")
     
     # Define allowed shift types
-    ALLOWED_TYPES = ['Hosszú', 'Leo', 'Winston', 'Mogumba', 'Konyha', 'Nappalos', 'Poharas', 'Kávézó pult', 'Rács']
+    ALLOWED_TYPES = ['Hosszú', 'Leo', 'Winston', 'Mogumba', 'Konyha', 'Nappalos', 'Poharas', 'Kávézó pult', 'Rács', 'Első kert']
     
     # Collect all unique dates from the file
     unique_dates = []
