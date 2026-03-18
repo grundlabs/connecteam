@@ -1,3 +1,4 @@
+# SHIFT REPORT EXPORTTAL DOLGOZIK JELENLEG / CURRENTLY TUNED FOR WORKING WITH SHIFT REPORT EXPORTS
 # Employee Timesheet Processor / Munkaidő Nyilvántartás Feldolgozó
 
 [English](#english) | [Magyar](#magyar)
